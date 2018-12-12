@@ -46,7 +46,7 @@ The SPSite.CompatibilityLevel will not be changed by this operation.
 PS C:\>Upgrade-SPSite http://<site name>/sites/testsite -VersionUpgrade
 ```
 
-This example upgrades the existing http://\<site name\>/sites/testsite site collection by using only build-to-build upgrade actions.
+This example upgrades the existing http://\<site name\>/sites/testsite site collection by using only build-to-build and version-to-version upgrade actions.
 The SPSite.CompatibilityLevel will not be changed by this operation.
 
 ## PARAMETERS
